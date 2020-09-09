@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel R thomas"
+title                    : "Daniel R Thomas"
 title_separator          : "-"
 name                     : &name "Daniel R Thomas"
 description              : &description "PhD Candidate, Political Science, Columbia University"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel R Thomas"
-  avatar           : "danielthomas.jpg"
+  avatar           : "danielthomas.png"
   bio              : "PhD Candidate, Political Science, Columbia University"
   location         : "New York City"
   employer         :
@@ -178,7 +178,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -221,7 +221,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
