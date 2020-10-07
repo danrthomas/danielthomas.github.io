@@ -1,7 +1,7 @@
 ---
 title: "Understanding Segmentation in Rural Electricity Markets: Evidence from India"
-collection: research
-permalink: /research/EE
+collection: publications
+permalink: /publications/EE
 excerpt: 
 date: 2020-03-01
 venue: 'Energy Economics'
