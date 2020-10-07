@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ---
-**"A theory of targeted and indiscriminate state violence in networks"**
+**A theory of targeted and indiscriminate state violence in networks**
 
 *Revise and Resubmit at Journal of Peace Research*
 
