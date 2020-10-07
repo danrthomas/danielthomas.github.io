@@ -1,7 +1,7 @@
 ---
 title: "Early Electrification and the Quality of Service: Evidence from Rural India"
-collection: research
-permalink: /research/ESD
+collection: publications
+permalink: /publications/ESD
 excerpt: 
 date: 2018-06-01
 venue: 'Energy For Sustainable Development'
