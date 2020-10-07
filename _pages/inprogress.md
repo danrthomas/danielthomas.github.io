@@ -8,7 +8,7 @@ author_profile: true
 ---
 **A theory of targeted and indiscriminate state violence in networks**
 
-*Revise and Resubmit at Journal of Peace Research*
+Revise and Resubmit at *Journal of Peace Research*
 
 Theories explaining why states choose to use targeted or indiscriminate
 violence against civilians hinge on the state's capacity to gain
