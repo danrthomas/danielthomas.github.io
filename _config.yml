@@ -181,7 +181,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-   inprogress:
+  inprogress:
     output: true
     permalink: /:collection/:path/
   portfolio:
