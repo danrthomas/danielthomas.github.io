@@ -1,7 +1,7 @@
 ---
 title: "The Effects of Rural Electrification in India: An Instrumental Variable Approach at the Household Level"
-collection: research
-permalink: /research/JDE
+collection: publications
+permalink: /publications/JDE
 excerpt: 
 date: 2020-09-01
 venue: 'Journal of Development Economics'
