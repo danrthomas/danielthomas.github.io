@@ -181,6 +181,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+   inprogress:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: false
     permalink: /:collection/:path/
@@ -222,6 +225,15 @@ defaults:
   - scope:
       path: ""
       type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _inprogress
+  - scope:
+      path: ""
+      type: inprogress
     values:
       layout: single
       author_profile: true
