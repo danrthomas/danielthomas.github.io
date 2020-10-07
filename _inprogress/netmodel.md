@@ -4,11 +4,10 @@ title: "A theory of targeted and indiscriminate state violence in networks"
 collection: inprogress
 permalink: /wip/netmodel
 excerpt: Revise and Resubmit (Journal of Peace Research)
-date: 2020-09-01
+date: 2020-10-01
 venue: 
 paperurl: 
 citation: 
-
 ---
 Theories explaining why states choose to use targeted or indiscriminate
 violence against civilians hinge on the state's capacity to gain
