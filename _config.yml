@@ -230,15 +230,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _inprogress
-  - scope:
-      path: ""
-      type: inprogress
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _portfolio
   - scope:
       path: ""
